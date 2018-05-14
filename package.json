@@ -31,6 +31,7 @@
     "lib": "./lib/nodejs/lib/thrift"
   },
   "main": "./lib/nodejs/lib/thrift",
+  "browser": "./lib/nodejs/lib/thrift/browser.js",
   "engines": {
     "node": ">= 4.1.0"
   },
